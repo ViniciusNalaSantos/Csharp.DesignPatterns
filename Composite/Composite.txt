@@ -1,0 +1,10 @@
+﻿Store the reference of the child to the parent/child maybe simplify the traversal of the composite structure
+
+This DP may hurt Interface Segregation Principle of solid, because the Composite may have operations that for Leaf class isn't meaningful.
+One way to solve this, in case of a Leaf not having a child, so not being necessary to have a Child method, is to create a class Glyph implementing a default operation of not returning nothing when is a leaf component.
+This is why I started with the IGlyph interface, but then I prefered to create a class, so I could implement default implementations.
+
+-----------------------------
+Problema atual!!!!
+Setar Parent no RowComposite!
+-----------------------------

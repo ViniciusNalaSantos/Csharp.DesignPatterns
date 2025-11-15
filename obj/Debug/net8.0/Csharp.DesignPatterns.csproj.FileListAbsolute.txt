@@ -1,0 +1,11 @@
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\bin\Debug\net8.0\Csharp.DesignPatterns.deps.json
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\bin\Debug\net8.0\Csharp.DesignPatterns.dll
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\bin\Debug\net8.0\Csharp.DesignPatterns.pdb
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.dll
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\refint\Csharp.DesignPatterns.dll
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.pdb
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\ref\Csharp.DesignPatterns.dll
