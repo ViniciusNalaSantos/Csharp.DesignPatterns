@@ -9,3 +9,4 @@ C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.Design
 C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\refint\Csharp.DesignPatterns.dll
 C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.pdb
 C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\ref\Csharp.DesignPatterns.dll
+C:\Users\vinic\source\repos\Csharp.DesignPatterns\obj\Debug\net8.0\Csharp.DesignPatterns.sourcelink.json

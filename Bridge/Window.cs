@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace Csharp.DesignPatterns.Bridge;
 public class Window
 {
-    protected WindowImp WindowImplementation { get; set; }
-    public Window(WindowImp windowImplementation) 
+    protected WindowImplementor WindowImplementor { get; set; }
+    public Window(WindowImplementor windowImplementor) 
     {
-        WindowImplementation = windowImplementation;
+        WindowImplementor = windowImplementor;
     }
     public virtual void DrawContents() { }
     public virtual void Open() { }
