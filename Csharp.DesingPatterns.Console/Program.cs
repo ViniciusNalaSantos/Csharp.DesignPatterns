@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Abstract Factory
+using Csharp.DesignPatterns.Domain.AbstractFactory;
+
+var product1Factory = new Product1AbstractFactory();
+var productA1 = product1Factory.CreateProductA();
+productA1.DoSomething();
